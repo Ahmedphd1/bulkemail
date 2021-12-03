@@ -1,0 +1,4 @@
+1. Ændre variablerne i "config.ini" fil
+2. Skriv "pip install -r requirements.txt" i terminalen for at downloade alle modulerne til programmet
+
+
